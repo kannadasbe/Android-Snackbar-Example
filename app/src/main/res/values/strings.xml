@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android SnackBar Example</string>
+    <string name="snackbar_with_action">Snackbar With Action</string>
+    <string name="www_crazygeeksblog_com">www.crazygeeksblog.com</string>
+    <string name="custom_snackbar">Custom Snackbar</string>
+    <string name="default_snackbar">Default Snackbar</string>
+</resources>
